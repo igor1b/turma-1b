@@ -3,7 +3,7 @@ body{
 }
 #logosite {
  width:100%
-height:150
+height:150%
 }
 
 h1{
@@ -13,7 +13,7 @@ p {
  text-aling: center
 }
 #missao{
-   front-size: 40px
+   front-size: 20px
 }
 em strong{
   color: red;
