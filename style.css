@@ -8,25 +8,27 @@ body{
 }
 
 h1{
-  text-align: center
+  text-align: center;
 }
 
 #Produtos1{
   height: 100px;
   width: 30%;
 }
+
+p{
+  text-align: center;
+}
+
 h2{
-  text-align: center
+  text-align: center;
 }
 
 ul{
-  text-align: center
+  text-align: center;
 }
 
 #missao {
  font-size: 20px;
  color: rgb(255, 0, 0);
-}
-p{
-  text-align: center;
 }
