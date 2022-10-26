@@ -12,11 +12,15 @@ h1{
 }
 
 #Produtos1{
-  height:
-  width: 
+  height:100px
+  width:30% 
 }
 
 h2{
+  text-align: center
+}
+
+ul{
   text-align: center
 }
 
