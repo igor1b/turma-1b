@@ -15,7 +15,6 @@ h1{
   height: 100px;
   width: 30%;
 }
-
 h2{
   text-align: center
 }
@@ -27,4 +26,7 @@ ul{
 #missao {
  font-size: 20px;
  color: rgb(255, 0, 0);
+}
+p{
+  text-align: center;
 }
