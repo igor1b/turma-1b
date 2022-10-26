@@ -15,19 +15,7 @@ p {
   text-align: center
 }
 
-#missao{
- font-size: 20px
+#missao {
+ font-size: 20px;
+ color: rgb(255, 0, 0);
 }
-
-em strong{
-   color: rgb(255,0,0);
-}
-
-
-
-
-
-
-
-
-
