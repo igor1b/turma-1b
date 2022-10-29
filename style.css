@@ -24,6 +24,11 @@ p{
  font-size: 22px;
 }
 
+#motosvenda1{
+  height: 400px;
+  width: 100%; 
+}
+
 h2{
   text-align: center;
 }
