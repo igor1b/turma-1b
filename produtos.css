@@ -1,18 +1,23 @@
 header{
- background: rgb(0,0,0)
+ background: rgb(0,0,0);
  padding: 20px 0;
+}
+
+.batata{
+  width: 200px;
+  height: auto;
 }
 
 .caixa{
  position: relative;
  width: 940px;
- 
+ margin: 0 auto;
 }
 
 nav{
  position: absolute;  
- top: 150;
- reight: 0;
+ top: 120px;
+ right: 0;
  margin: 0 auto;
 }
 
@@ -36,6 +41,20 @@ nav a:hover{
  
 }
 
+.imgp1{
+  width: 170px;
+  height: auto;
+}
+
+.imgp2{
+  width: 155px;
+  height: auto;
+}
+
+.imgp3{
+  width: 150px;
+  height: auto;
+}
 .produtos{
   width: 940px;
   margin: 0 auto;
@@ -86,17 +105,20 @@ nav a:hover{
 
 footer{
  text-align: center;
- backgroud: #000000;
+ background: #000000;
  padding: 40px;
+}
+
+.img-footer{
+  width: 130px;
+  height: auto;
 }
 
 .copyright {
   color: #FFFFFF;
   font-size:13px;
   margin: 20px 0 0;
-  
 }
-
 
 
 
