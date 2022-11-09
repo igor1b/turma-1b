@@ -24,9 +24,9 @@ p{
  font-size: 22px;
 }
 
-#motosvenda{
-  height: 400px;
-  width: 100%; 
+.motosvenda{
+  height: auto
+  width:100%
 }
 
 h2{
