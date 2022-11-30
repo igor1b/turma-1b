@@ -135,6 +135,12 @@ form label, form legend{
  margin: 0 0 10px;
 }
 
+form input{
+ display: block;
+ margin: 0 0 20px;
+ padding: 10px 25px;
+}
+
 .input-padrao {
  dysplay: block;
  margin: 0 0 20px;
